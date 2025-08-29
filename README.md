@@ -27,27 +27,8 @@ The **Bank Loan Dashboard** provides an interactive way to analyze loan applicat
 * Enables business teams to make **data-driven lending decisions**.
 
 ##  Screenshots
+<img width="1411" height="793" alt="Bank load report" src="https://github.com/user-attachments/assets/257ad00e-bb95-4bfe-b8e7-4e3f77d34e02" />
 
-Add your dashboard screenshots here.
-
-For example:
-
-```markdown
-![Bank Loan Dashboard Overview](images/bank_loan_dashboard.png)
-```
-
-👉 Steps to add screenshot:
-
-1. Create a folder in your repo named `images`.
-2. Save a screenshot of your Power BI dashboard (e.g., `bank_loan_dashboard.png`) into that folder.
-3. Use the above Markdown code to display it in README.
-
-## 📂 Project Files
-
-* `Bank Loan Dashboard.pbix` → Power BI dashboard file
-* `images/` → Dashboard screenshots for README
-
-## 🚀 How to Use
 
 1. Clone this repository:
 
@@ -59,7 +40,5 @@ For example:
 3. Interact with filters, slicers, and charts to explore insights.
 
 ---
-
-⚡Tip: If your dataset is small and allowed to be shared, you can also include a **sample CSV/Excel** file in the repo. That makes it easier for others to test the dashboard.
 
 Do you want me to also write a **short professional project description** (2–3 lines) for LinkedIn/Resume that complements this README?
